@@ -1,0 +1,16 @@
+# Data files — download from the Kaggle competition page
+data/
+*.csv
+*.npz
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# OS
+Thumbs.db
+.DS_Store
